@@ -1,0 +1,16 @@
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\bin\Debug\net8.0-windows\Winforms_Modern-App.exe
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\bin\Debug\net8.0-windows\Winforms_Modern-App.deps.json
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\bin\Debug\net8.0-windows\Winforms_Modern-App.runtimeconfig.json
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\bin\Debug\net8.0-windows\Winforms_Modern-App.dll
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\bin\Debug\net8.0-windows\Winforms_Modern-App.pdb
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern_App.Form1.resources
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.csproj.GenerateResource.cache
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.AssemblyInfoInputs.cache
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.AssemblyInfo.cs
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.csproj.CoreCompileInputs.cache
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.dll
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\refint\Winforms_Modern-App.dll
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.pdb
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\Winforms_Modern-App.genruntimeconfig.cache
+C:\Users\pearl\source\repos\Winforms_Modern-App\Winforms_Modern-App\obj\Debug\net8.0-windows\ref\Winforms_Modern-App.dll
